@@ -21,7 +21,7 @@ This script is designed to run on a Digispark/Arduino Leonardo-style USB device 
 - Arduino IDE
 - `Keyboard.h` library
 - Local reverse shell listener (e.g., `nc -lvnp 4444` on attacker's machine)
-- HTTP server hosting `nc64.exe` at `http://172.16.163.77/nc64.exe`
+- HTTP server hosting `nc64.exe` at `http://<IP>/nc64.exe`
 
 ---
 
@@ -29,7 +29,7 @@ This script is designed to run on a Digispark/Arduino Leonardo-style USB device 
 
 1. Flash the code onto a compatible Digispark or HID-enabled Arduino board.
 2. Plug the device into the target system.
-3. Reverse shell will be attempted and connected to the IP `172.16.163.77` on port `4444`.
+3. Reverse shell will be attempted and connected to the IP `<IP>` on port `4444`.
 
 ---
 
