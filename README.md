@@ -15,7 +15,7 @@ This script is designed to run on a Digispark/Arduino Leonardo-style USB device 
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Digispark or Arduino Leonardo/Micro with USB HID support
 - Arduino IDE
@@ -25,7 +25,7 @@ This script is designed to run on a Digispark/Arduino Leonardo-style USB device 
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 1. Flash the code onto a compatible Digispark or HID-enabled Arduino board.
 2. Plug the device into the target system.
@@ -33,13 +33,13 @@ This script is designed to run on a Digispark/Arduino Leonardo-style USB device 
 
 ---
 
-## ⚠️ Legal Disclaimer
+##  Legal Disclaimer
 
 This tool is meant for **authorized** penetration testing, red teaming, or educational purposes only. Using this code against machines you do not own or have explicit written permission to test may violate laws and regulations.
 
 ---
 
-## 🛠️ Potential Improvements
+##  Potential Improvements
 
 Here are a few enhancements or changes you could implement:
 
@@ -71,7 +71,7 @@ Here are a few enhancements or changes you could implement:
 
 ---
 
-## 🔐 Security Reminder
+##  Security Reminder
 
 This project showcases the power of USB HID devices for red teaming but also the severe risks they pose if misused. Always operate within ethical and legal boundaries.
 
